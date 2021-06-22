@@ -208,7 +208,7 @@ article .news_posted_at {
     color: #FFFFFF;
     font-size: 12px;
     padding: 10px;
-    margin-right: 2px;
+    margin-right:2px ;
 }
 
 article .news_comments {
@@ -243,7 +243,7 @@ article .news_resume {
 
 .widget_body {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:wrap ;
 }
 
 .widget_bodytext {
